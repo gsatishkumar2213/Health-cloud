@@ -1,0 +1,5 @@
+prv_npi,prv_tin,prv_title_degree,prv_first_name,prv_middle_name,prv_last_name,prv_network_name,Network_start_date,Network_end_date,prv_phone,prv_PCP_status,prv_Speciality_1_code,prv_Speciality_1_desc,prv_street_1,prv_street_2,prv_city,prv_country,prv_state,prv_zip,prv_new_patients,prv_practice_Name,prv_practice_TIN
+7416859624,741852963,MD,papi,akil,Reddy,Blue-Cross Blue-Shield,01/10/2006,01/10/2026,3617208566,Yes,5,Anesthesiology,2 Drummond st,Apt 970,Edison,USA,NewJersey,23122,Yes,fish,457896123
+256478965,852963741,NP,sathish,Kumar,Gonda,Red Cross,4/24/2008,4/24/2028,3617208566,No,5,Anesthesiology,56 Atherton dr,Apt 220,Pheonix,USA,Arizona,50861,Yes,chick,897456123
+978456123,963852741,DO,Rohit,Venkata,Kommaraju,Health Care,11/30/2001,11/30/2021,3617208566,Yes,8,Family Practice,11 Saratoga st,Apt C,Houston,USA,Texas,78363,Yes,num,965874123
+456123789,159786432,MD,Sunil,,Borusu,State health aid,3/12/2002,3/12/2022,3617208456,Yes,7,Dermatology,13 Lindenwood dr,Apt 21,Santa clara,USA,California,25165,No,tod,365214789
